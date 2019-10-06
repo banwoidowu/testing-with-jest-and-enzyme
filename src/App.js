@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Header />
       <section className="main">
-        <Headline header="Posts" desc="Click the button to render posts!" />
+        <Headline header={"Posts"} desc="Click the button to render posts!" />
       </section>
     </div>
   );
